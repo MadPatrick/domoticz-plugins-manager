@@ -551,4 +551,28 @@
         "name": "Panasonic Cloud Comfort",
         "repository": "https://github.com/sdamasoc/domoticz_panasonic_CZ-TACG1"
     }
+	"Toon Rooted": {
+    "name": "Toon (Rooted)",
+    "author": "MadPatrick",
+    "description": "Manage your Rooted Toon thermostat",
+    "repository": "https://github.com/MadPatrick/domoticz_toon",
+    "branch": "master",
+    "folder": "Toon"
+},
+	"Somfy": {
+    "name": "Somfy",
+    "author": "MadPatrick",
+    "description": "Manage your Somfy devices",
+    "repository": "https://github.com/MadPatrick/domoticz_somfy",
+    "branch": "master",
+    "folder": "Somfy"
+},
+	"Kyrion Music Server": {
+    "name": "Lyrion",
+    "author": "MadPatrick",
+    "description": "Manage your Music by Lytrion",
+    "repository": "https://github.com/MadPatrick/domoticz_lyrion",
+    "branch": "master",
+    "folder": "Lyrion"
+},
 }
