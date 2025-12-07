@@ -550,5 +550,54 @@
         "folder": "domoticz_panasonic_CZ-TACG1",
         "name": "Panasonic Cloud Comfort",
         "repository": "https://github.com/sdamasoc/domoticz_panasonic_CZ-TACG1"
-    }
+    },
+	"Toon Rooted": {
+    "name": "Toon (Rooted)",
+    "author": "MadPatrick",
+    "description": "Manage your Rooted Toon thermostat",
+    "repository": "https://github.com/MadPatrick/domoticz_toon",
+    "branch": "master",
+    "folder": "toon"
+},
+	"Somfy": {
+    "name": "Somfy",
+    "author": "MadPatrick",
+    "description": "Manage your Somfy devices",
+    "repository": "https://github.com/MadPatrick/domoticz_somfy",
+    "branch": "master",
+    "folder": "somfy"
+},
+	"Lyrion Music Server": {
+    "name": "Lyrion",
+    "author": "MadPatrick",
+    "description": "Manage your Music by Lytrion",
+    "repository": "https://github.com/MadPatrick/domoticz_lyrion",
+    "branch": "master",
+    "folder": "lyrion"
+},
+	"UPS ACP monitor": {
+    "name": "APC UPS",
+    "author": "MadPatrick",
+    "description": "Manage your UPS",
+    "repository": "https://github.com/MadPatrick/domoticz_apc_ups",
+    "branch": "master",
+    "folder": "apc-ups"
+},
+	"UPS ACP monitor": {
+    "name": "Husqvarna Automower",
+    "author": "FilipDem",
+    "description": "Manage your Husqvarna mower",
+    "repository": "https://github.com/FilipDem/Domoticz-Husqvarna-Automower-plugin",
+    "branch": "master",
+    "folder": "husqvarna"
+},
+	"BMW plugin": {
+    "name": "BMW monitor",
+    "author": "FilipDem",
+    "description": "Manage your BMW",
+    "repository": "https://github.com/FilipDem/Domoticz-BMW-plugin",
+    "branch": "master",
+    "folder": "Bmw"
+}
+
 }
