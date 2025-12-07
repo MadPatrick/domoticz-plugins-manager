@@ -567,7 +567,7 @@
     "branch": "master",
     "folder": "Somfy"
 },
-	"Kyrion Music Server": {
+	"lyrion Music Server": {
     "name": "Lyrion",
     "author": "MadPatrick",
     "description": "Manage your Music by Lytrion",
@@ -575,4 +575,29 @@
     "branch": "master",
     "folder": "Lyrion"
 },
+	"UPS ACP monitor": {
+    "name": "APC UPS",
+    "author": "MadPatrick",
+    "description": "Manage your UPS",
+    "repository": "https://github.com/MadPatrick/domoticz_apc_ups",
+    "branch": "master",
+    "folder": "apc-ups"
+},
+	"UPS ACP monitor": {
+    "name": "Husqvarna Automower",
+    "author": "FilipDem",
+    "description": "Manage your Husqvarna mower",
+    "repository": "https://github.com/FilipDem/Domoticz-Husqvarna-Automower-plugin",
+    "branch": "master",
+    "folder": "husqvarna"
+},
+	"BMW plugin": {
+    "name": "BMW monitor",
+    "author": "FilipDem",
+    "description": "Manage your BMW",
+    "repository": "https://github.com/FilipDem/Domoticz-BMW-plugin",
+    "branch": "master",
+    "folder": "Bmw"
+}
+
 }
