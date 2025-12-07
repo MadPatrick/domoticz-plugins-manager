@@ -43,7 +43,7 @@ All available plugins are stored in `plugins.json` file. To add your plugin just
     "author": "stas-demydiuk",
     "description": "Allows to manage python plugins through custom UI page",
     "repository": "https://github.com/stas-demydiuk/domoticz-plugins-manager",
-    "branch": "master",
+    "branch": ["master"],
     "folder": "plugins-manager"
 },
 ```
